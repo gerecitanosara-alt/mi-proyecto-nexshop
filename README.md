@@ -1,6 +1,6 @@
 # NexShop Group S.A. — Base de Datos
 
-**Alumno:** Sara  
+**Alumno:** Sara Gerecitano Lozano  
 **Proyecto:** Mini Proyecto Avanzado — Base de Datos  
 **Nivel:** Intermedio-Avanzado  
 
